@@ -14,6 +14,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalzaben&show_icons=true&locale=en&layout=compact" alt="amalzaben" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalzaben&show_icons=true&locale=en" alt="amalzaben" /></p>
+<p><img src="https://leetcard.jacoblin.cool/amalzaben?theme=light" /></p>
 
 
 
